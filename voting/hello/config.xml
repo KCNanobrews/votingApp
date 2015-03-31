@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Tip of Canada</name>
+    <description>
+        A place for Chad and Tim to hide their love.
+    </description>
+    <author email="owners@kcnanobrews.com" href="http://kcnanobrews.com">
+        kc nanobrews
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
